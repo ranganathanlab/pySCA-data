@@ -1,0 +1,12 @@
+# Compressed files
+*.sw[a-p]
+*~
+*.gz
+*.xz
+*.zip
+
+# Pfam files
+pfamseq
+pfamseq.db
+pfamseq.sql
+pfamseq.txt
